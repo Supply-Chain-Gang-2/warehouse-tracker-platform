@@ -157,7 +157,7 @@ Feature Task - Increment or decrement the number of items based on whether or no
 
 Acceptance Tests - Make sure the item totals are accurate based on whether it was shipped or received
 
-## Stretch Goals
+### Stretch Goals
 
 __*Story 6: Item placement*__ - As a user I want the ability to find the optimal spot to place an item
 
